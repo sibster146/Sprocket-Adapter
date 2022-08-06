@@ -1,0 +1,5 @@
+- adjust registers must match tool registers
+- set IPW to Use 3d
+- Move MCS around/play with folders to create separate programs
+	- Two separate MCS in the same CAM file
+- Save programs as separate files
